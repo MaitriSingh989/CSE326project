@@ -1,0 +1,23 @@
+.hout {
+  color: darkblue;
+  font-size: 40px;
+  margin-left: 35px;
+}
+P {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 25px;
+  color: #212121;
+  font-size: 1.4rem;
+  line-height: 1.7rem;
+  font-family: inherit;
+  font-size: 1.2rem;
+  font-weight: 300;
+  text-rendering: optimizeLegibility;
+  margin-left: 35px;
+}
+li {
+  display: inline;
+  margin-left: 40px;
+  text-align: left;
+}
